@@ -1,0 +1,13 @@
+{
+  "name": "Custom Torrent Source",
+  "downloads": [
+    {
+      "title": "Resident Evil Requiem [DODI Repack]",
+      "fileSize": "58.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:cf2ede03395a4566de9afbecf05523c1ecf4e9fc&dn=Resident%20Evil%20Requiem%20%5BDODI%20Repack%5D"
+      ],
+      "uploadDate": "2026-02-28T00:00:00.000Z"
+    }
+  ]
+}
